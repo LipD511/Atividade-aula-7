@@ -1,1 +1,1 @@
-# Atividade-aula-7
+Questões das atividades disponibilizadas da aula 7.
